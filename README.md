@@ -7,8 +7,9 @@
 > - Apagar os itens da lista.
 
 <br/>
-Este projeto faz parte do segundo desafio, proposto pelos mentores do programa Desenvolve do Grupo Boticário.
+Este projeto faz parte do segundo desafio, proposto pelos mentores do programa Desenvolve do Grupo Boticário.<br/>
 <br/>
+
 ![image](./img/lista_home.png)
 
 <br />
