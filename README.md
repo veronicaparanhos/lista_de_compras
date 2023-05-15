@@ -8,7 +8,7 @@
 
 <br/>
 Este projeto faz parte do segundo desafio, proposto pelos mentores do programa Desenvolve do Grupo Boticário.
-
+<br/>
 ![image](./img/lista_home.png)
 
 <br />
