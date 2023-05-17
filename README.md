@@ -20,4 +20,6 @@ Este projeto faz parte do segundo desafio, proposto pelos mentores do programa D
 > - CSS
 > - Java Script
 
-- Link para a página: https://veronicaparanhos.github.io/lista_de_compras/
+<br />
+
+[Link para a página](https://veronicaparanhos.github.io/lista_de_compras/)
